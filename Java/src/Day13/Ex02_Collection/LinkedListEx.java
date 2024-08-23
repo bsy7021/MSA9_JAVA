@@ -38,5 +38,6 @@ public class LinkedListEx {
 		inventoryList.clear();
 		System.out.println("::::: 재고 목록 :::::");
 		System.out.println(inventoryList);
+		System.out.print("ddd");
 	}
 }
