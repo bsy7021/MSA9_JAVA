@@ -1,4 +1,4 @@
-package Day10;
+package Day10.Ex03_Wrapper;
 
 public class CompareValue {
 	public static void main(String[] args) {
