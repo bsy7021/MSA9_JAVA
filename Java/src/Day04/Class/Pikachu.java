@@ -26,7 +26,7 @@ public class Pikachu {
 //		type = "전기";
 		this(100, "전기");
 	}
-	
+
 	public Pikachu(int energy) {
 		this(energy,"전기");
 	}
@@ -36,7 +36,7 @@ public class Pikachu {
 		this.energy = energy;
 		this.type = type;
 	}
-	
+
 	//메소드
 	//-접근지정자 반환타입 메소드명(매개변수){}
 	public String aAttack() {

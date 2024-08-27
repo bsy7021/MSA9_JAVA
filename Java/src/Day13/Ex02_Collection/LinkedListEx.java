@@ -21,7 +21,7 @@ public class LinkedListEx {
 		System.out.println("첫 번째 아이템 : " + firstItem);
 		System.out.println("마지막 아이템 : " + lastItem);
 
-		//첫번째, 마지막 아이템 제거		
+		//첫번째, 마지막 아이템 제거	
 		inventoryList.removeFirst();
 		inventoryList.removeLast();
 		System.out.println("::::: 재고 목록 :::::");
