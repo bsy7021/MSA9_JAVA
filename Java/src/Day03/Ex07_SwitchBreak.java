@@ -7,7 +7,6 @@ public class Ex07_SwitchBreak {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("정수 입력 : ");
 		int num = sc.nextInt();
-		int a = num%5;
 		
 		//입력 받은 정수를 5로 나눈 나머지가
 		//2보다 작으면 "*" 출력
